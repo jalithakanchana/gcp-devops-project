@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: gcp-devops-gke
-        image: gcr.io/precise-dragon-406905/gcpdevops:latest
+        image: gcr.io/kodecloud/gcpdevops:latest
         ports:
         - containerPort: 5000
         env:
