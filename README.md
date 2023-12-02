@@ -1,1 +1,4 @@
-## This is a new reppo for our new project  gcp-devops-project
+# Docker flask application
+
+- This application is build from python
+- It shall be deployed on GKE.
